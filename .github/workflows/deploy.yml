@@ -28,6 +28,10 @@ jobs:
       run: |
         make dirhtml
 
+    - name: Make dirs
+      run: |
+        mkdir -p _build/dirhtml/articles
+
     - name: Render blog1
       run: |
         python create_sphinx_source.py
