@@ -1,7 +1,7 @@
+.vscode
+__pycache__
+_build/
+articles/**/index.rst
+articles/tags/*.rst
 drafts/
 unprocessed/
-_build/
-
-.ipynb_checkpoints
-.vscode
-*/.ipynb_checkpoints/*

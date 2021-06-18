@@ -1,0 +1,30 @@
+{% extends "_layout.html" %}
+
+{% block title %}
+Fantastic Brocolli
+{% endblock %}
+
+
+{% block extra_head %}
+<meta name="description"
+      content="Fantastic Broccoli." />
+{% endblock %}
+
+{% block everything %}
+<h1>Fantastic Broccoli</h1>
+
+<div class="row">
+  <div class="span4">
+    <h2><a href="/articles/">Articles</a></h2>
+    {{ weblogsnippet }}
+  </div>
+
+  <div class="span4">
+  </div>
+
+  <div class="span4">
+  </div>
+
+</div>
+
+{% endblock %}
