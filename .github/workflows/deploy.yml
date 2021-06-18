@@ -28,17 +28,9 @@ jobs:
       run: |
         make dirhtml
 
-    - name: Make dirs
-      run: |
-        mkdir -p _build/dirhtml/articles
-
     - name: Render blog1
       run: |
         python create_sphinx_source.py
-
-    - name: Render blog2
-      run: |
-        python homepage.py
 
     # Build the book
     - name: Build the site
