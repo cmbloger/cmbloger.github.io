@@ -1,0 +1,8 @@
+Tag overview
+############
+
+.. toctree::
+    :maxdepth: 1
+
+    cool (1) <cool.rst>
+    coding (1) <coding.rst>

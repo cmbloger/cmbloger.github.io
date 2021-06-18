@@ -1,0 +1,7 @@
+coding
+######
+
+.. toctree::
+    :maxdepth: 1
+
+    2021-06-17 Test title <..2021/06/17/this-is-a-sample.rst>

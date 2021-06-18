@@ -1,0 +1,16 @@
+Welcome to Fantastic Broccoli’s documentation!
+##############################################
+
+`Test title <2021/06/17/this-is-a-sample/>`_
+============================================
+
+2021-06-17
+
+
+.. roottags:: cool, coding
+
+
+This is a test here.
+
+
+

@@ -1,0 +1,7 @@
+Weblog entries for 2021
+#######################
+
+.. toctree::
+    :maxdepth: 4
+
+    06/index.rst
