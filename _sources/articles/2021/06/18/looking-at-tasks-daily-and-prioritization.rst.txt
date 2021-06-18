@@ -1,11 +1,5 @@
-Welcome to Fantastic Broccoli’s documentation!
-##############################################
-
-`Looking at Tasks Daily and Prioritization <2021/06/18/looking-at-tasks-daily-and-prioritization/>`_
-====================================================================================================
-
-2021-06-18
-
+Looking at Tasks Daily and Prioritization
+=========================================
 
 .. tags: organization, time management
 
@@ -65,7 +59,5 @@ In summary, the tasks are:
 
 - 0,0 Answering the question from a colleague that came in this morning
   regarding how automation is affecting his ticket queue
-
-
 
 
