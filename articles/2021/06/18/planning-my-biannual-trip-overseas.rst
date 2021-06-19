@@ -93,7 +93,6 @@ Day 2
 What are the sets of things that I need for this trip?
 ------------------------------------------------------
 
-
 - Clothing
 
   - Socks
