@@ -163,7 +163,7 @@ def _is_weblog_entry(pagename):
     if not pagename:
         return
     parts = pagename.split("/")
-    if not parts[0] == "weblog":
+    if not parts[0] == "articles":
         return
     if not len(parts) == 5:
         return
@@ -172,11 +172,11 @@ def _is_weblog_entry(pagename):
     return True
 
 
-# def enable_disqus(app, pagename, templatename, context, doctree):
-#     """Inject whether to enable disqus into the context.
-#     It is registered for the ``html-page-context`` event.
-#     """
-#     context["enable_disqus"] = _is_weblog_entry(pagename)
+def enable_disqus(app, pagename, templatename, context, doctree):
+    """Inject whether to enable disqus into the context.
+    It is registered for the ``html-page-context`` event.
+    """
+    context["enable_disqus"] = _is_weblog_entry(pagename)
 
 
 def setup(app):
@@ -187,7 +187,7 @@ def setup(app):
 
     # app.add_directive("preek", SermonInfo)
     # app.connect("html-page-context", breadcrumbs)
-    # app.connect("html-page-context", enable_disqus)
+    app.connect("html-page-context", enable_disqus)
 
 
 def setup_for_plain_docutils():
