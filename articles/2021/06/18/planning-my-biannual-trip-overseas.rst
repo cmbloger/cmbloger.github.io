@@ -14,6 +14,7 @@ List of Important Data and Decisions
 - Take off on Monday at 1:40PM
 
 - Arrival time
+
   - 11h0m flight will be 12:40AM local time.
   - 1h30m layover will end at 2:10AM local time.
   - 1h5m flight to destination will end at 3:15AM local time.
@@ -22,6 +23,7 @@ List of Important Data and Decisions
     destination.
 
 - Do I need to take off from work for this trip? 
+
   - Maybe the afternoon of the departure.
 
 What do I need to do before I go? 
@@ -74,6 +76,7 @@ Day 1
     depth and the door closes smoothly afterward but still seals well
 
 - Prepare luggage (2 hours, twice, because should do on Sunday too)
+
   - Wash and fold clothing and other things in the home
   - Check what has been pre-packed already and look for things missing
 
@@ -90,17 +93,22 @@ Day 2
 What are the sets of things that I need for this trip?
 ------------------------------------------------------
 
+
 - Clothing
+
   - Socks
   - Shoes
   - Underpants
 
 - Entertainment
+
   - Sealing ear buds or foam ear plugs
 
 - Employment
+
   - Bluetooth keyboard for typing on public transport
   - Work-issued computer and charger
 
 - Appointments
+
   - COVID Test Appointment (Tomorrow, Saturday at 1PM)
