@@ -28,9 +28,9 @@ List of Important Data and Decisions
   - This will be the quickest trip I've flown from home to this
     destination.
 
-- Do I need to take off from work for this trip? 
+- [ ] Do I need to take off from work for this trip? 
 
-  - Maybe the afternoon of the departure.
+  - [ ] Maybe the afternoon of the departure.
 
 What do I need to do before I go? 
 ---------------------------------
@@ -45,78 +45,88 @@ personal maintenance.
 Day 1
 -----
 
-- Add door jam reinforcement to a door that is missing the strike (4 hours)
+- [X] Add door jam reinforcement to a door that is missing the strike (4 hours)
   
-  - Move things out of the way where it's easy to wipe things down after
+  - [X] Move things out of the way where it's easy to wipe things down after
     this work.
 
-  - Mark the door jam where the large strike will be attached.
+  - [X] Mark the door jam where the large strike will be attached.
 
-  - Mark where the lock will be mounted on the door, so that the large
+  - [X] Mark where the lock will be mounted on the door, so that the large
     strike and the lock's hole can be drilled later and aligns with the
     large strike.
 
-  - Close doors and the furnace to prevent the free flow of air from the
+  - [X] Close doors and the furnace to prevent the free flow of air from the
     work area into the living area in the house.
 
-  - Sand the door jam down where the large strike will fit and the door
+  - [X] Sand the door jam down where the large strike will fit and the door
     will close without contacting the jam on any side.
 
-  - Vacuum the immediate area so that we don't track dust elsewhere. 
+  - [X] Vacuum the immediate area so that we don't track dust elsewhere. 
 
-  - Add the long hinge screws into the door and door jam.
-  - Drill the door lock hole.
-  - Vacuum.
-  - Install all the metal parts.
-  - Align the door by moving the large strike backward until the door seals.
+  - [X] Add the long hinge screws into the door and door jam.
+  - [X] Drill the door lock hole.
+  - [X] Vacuum.
+  - [X] Install all the metal parts.
+  - [X] Align the door by moving the large strike backward until the door seals.
   
-  - Getting the metal strike in at the correct depth and tightness may require
+  - [X] Getting the metal strike in at the correct depth and tightness may require
     either cutting into the door stop to get the metal large strike
     under it a bit.
 
-  - Vacuum and wipe everything down before placing everything back in the room.
+  - [X] Vacuum and wipe everything down before placing everything back in the room.
 
-- Finishing the front door (1 hour)
+- [X] Finishing the front door (1 hour)
   
-  - Sand down the foam seal on the front door so that it is the correct
+  - [X] Sand down the foam seal on the front door so that it is the correct
     depth and the door closes smoothly afterward but still seals well
 
-- Prepare luggage (2 hours, twice, because should do on Sunday too)
+- [ ] Prepare luggage (2 hours, twice, because should do on Sunday too)
 
-  - Wash and fold clothing and other things in the home
-  - Check what has been pre-packed already and look for things missing
+  - [ ] Wash and fold clothing and other things in the home
+  - [ ] Check what has been pre-packed already and look for things missing
+
+- [ ] Put in my time sheet for work
+- [ ] Organize my plans for quarantine after flight
+
 
 Day 2
 -----
 
-- Prepare luggage again as in day 1
+- [ ] Prepare luggage again as in day 1
 
-- Put my personal files on a USB drive that I need to access from my
+- [ ] Put my personal files on a USB drive that I need to access from my
   work-issued computer
 
-- (There is still room to add to Sunday.)
+- [ ] Remove everything out of the cars
+- [ ] Water the plants
+
+- [ ] (There is still room to add to Sunday.)
+
 
 What are the sets of things that I need for this trip?
 ------------------------------------------------------
 
-- Clothing
+- [ ] N95 mask and medical mask
+- [ ] Clothing
 
-  - Socks
-  - Shoes
-  - Underpants
+  - [ ] Socks
+  - [ ] Shoes
+  - [ ] Underpants
 
-- Entertainment
+- [ ] Entertainment
 
-  - Sealing ear buds or foam ear plugs
+  - [ ] Sealing ear buds or foam ear plugs
 
-- Employment
+- [ ] Employment
 
-  - Bluetooth keyboard for typing on public transport
-  - Work-issued computer and charger
+  - [ ] Bluetooth keyboard for typing on public transport
+  - [ ] Work-issued computer and charger
 
-- Appointments
+- [ ] Appointments
 
-  - COVID Test Appointment (Tomorrow, Saturday at 1PM)
+  - [ ] COVID Test Appointment (Tomorrow, Saturday at 1PM)
+  - [ ] Registration for travel
 
 
 `Looking at Tasks Daily and Prioritization <2021/06/18/looking-at-tasks-daily-and-prioritization/>`_
