@@ -32,6 +32,7 @@ General overview of the Eisenhower matrix procedure:
   - Not important and not urgent
 
 In summary, the tasks are:
+
 - 1,0 Create docs for work system, not needed in near term, important
 
 - 1,0 Find optimal time for new threshold for alert pipeline, not needed in
