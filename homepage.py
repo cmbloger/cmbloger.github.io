@@ -46,14 +46,26 @@ class Homepage(object):
 
 
 def main():
-    homepage = Homepage()
-    homepage.write()
+    # homepage = Homepage()
+    # homepage.write()
     import os
-    import re
+    # import re
 
-    old = open(os.path.join("_build", "dirhtml", "articles", "index.html")).read()
-    new = re.sub(r'href="([^/])', 'href="articles/\\1', old)
-    open(os.path.join("_build", "dirhtml", "index.html"), "w").write(new)
+    # old = open(os.path.join("_build", "dirhtml", "articles", "index.html")).read()
+    # new = re.sub(r'href="([^/])', 'href="articles/\\1', old)
+    # open(os.path.join("_build", "dirhtml", "index.html"), "w").write(new)
+
+    index = open(os.path.join("_build", "dirhtml", "index.html")).read().splitlines()
+    snippet = (
+        open(os.path.join("_build", "dirhtml", "snippet.html")).read().splitlines()
+    )
+
+    with open(os.path.join("_build", "dirhtml", "index.html"), "w") as f:
+        for line in index:
+            if "Post" not in line:
+                f.write(line + "\n")
+            else:
+                f.write("\n".join(snippet) + "\n")
 
 
 main()
