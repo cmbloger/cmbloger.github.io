@@ -17,7 +17,7 @@ sys.path.insert(0, os.path.abspath('.'))
 
 # -- Project information -----------------------------------------------------
 
-project = "Fantastic Broccoli"
+project = "My Online Journal"
 copyright = "2021, cmbloger. Public domain"
 author = "cmbloger"
 
