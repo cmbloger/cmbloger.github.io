@@ -1,4 +1,4 @@
-Organizing my Quarantine Plans after Flight
+Organizing My Quarantine Plans after Flight
 ===========================================
 
 .. tags: COVID-19
