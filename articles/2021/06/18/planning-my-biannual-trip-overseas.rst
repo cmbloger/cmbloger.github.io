@@ -80,7 +80,7 @@ Day 1
   - [ ] Wash and fold clothing and other things in the home
   - [ ] Check what has been pre-packed already and look for things missing
 
-- [ ] Put in my time sheet for work
+- [X] Put in my time sheet for work
 - [ ] Organize my plans for quarantine after flight
 
 
@@ -119,5 +119,5 @@ What are the sets of things that I need for this trip?
 
 - [ ] Appointments
 
-  - [ ] COVID Test Appointment (Tomorrow, Saturday at 1PM)
+  - [X] COVID Test Appointment (Tomorrow, Saturday at 1PM)
   - [ ] Registration for travel
