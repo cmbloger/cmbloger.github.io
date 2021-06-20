@@ -22,9 +22,9 @@ List of Important Data and Decisions
   - This will be the quickest trip I've flown from home to this
     destination.
 
-- [ ] Do I need to take off from work for this trip? 
+- [X] Do I need to take off from work for this trip? 
 
-  - [ ] Maybe the afternoon of the departure.
+  - [X] Maybe the afternoon of the departure.
 
 What do I need to do before I go? 
 ---------------------------------
@@ -75,51 +75,51 @@ Day 1
   - [X] Sand down the foam seal on the front door so that it is the correct
     depth and the door closes smoothly afterward but still seals well
 
-- [ ] Prepare luggage (2 hours, twice, because should do on Sunday too)
+- [X] Prepare luggage (2 hours, twice, because should do on Sunday too)
 
-  - [ ] Wash and fold clothing and other things in the home
-  - [ ] Check what has been pre-packed already and look for things missing
+  - [X] Wash and fold clothing and other things in the home
+  - [X] Check what has been pre-packed already and look for things missing
 
 - [X] Put in my time sheet for work
-- [ ] Organize my plans for quarantine after flight
+- [X] Organize my plans for quarantine after flight
 
 
 Day 2
 -----
 
-- [ ] Prepare luggage again as in day 1
+- [X] Prepare luggage again as in day 1
 
-- [ ] Put my personal files on a USB drive that I need to access from my
-  work-issued computer
+- [X] Put my personal files on a USB drive that I need to access from my
+  work-issued computer (none needed)
 
 - [X] Remove everything out of the cars
-- [ ] Water the plants
-- [ ] Charge and pack headphones
-- [ ] Add ear plugs to backpack
+- [X] Water the plants
+- [X] Charge and pack headphones (packed wired)
+- [X] Add ear plugs to backpack
 
-- [ ] (There is still room to add to Sunday.)
+- [X] (There is still room to add to Sunday.)
 
 
 What are the sets of things that I need for this trip?
 ------------------------------------------------------
 
-- [ ] N95 mask and medical mask
-- [ ] Clothing
+- [X] N95 mask and medical mask
+- [X] Clothing
 
-  - [ ] Socks
-  - [ ] Shoes
-  - [ ] Underpants
+  - [X] Socks
+  - [X] Shoes
+  - [X] Underpants
 
-- [ ] Entertainment
+- [X] Entertainment
 
-  - [ ] Sealing ear buds or foam ear plugs
+  - [X] Sealing ear buds or foam ear plugs
 
-- [ ] Employment
+- [X] Employment
 
-  - [ ] Bluetooth keyboard for typing on public transport
-  - [ ] Work-issued computer and charger
+  - [X] Bluetooth keyboard for typing on public transport
+  - [X] Work-issued computer and charger
 
-- [ ] Appointments
+- [X] Appointments
 
   - [X] COVID Test Appointment (Tomorrow, Saturday at 1PM)
-  - [ ] Registration for travel
+  - [X] Registration for travel
