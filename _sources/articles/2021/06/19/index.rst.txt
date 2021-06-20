@@ -1,0 +1,7 @@
+2021-06-19
+##########
+
+.. toctree::
+    :maxdepth: 2
+
+    organizing-my-quarantine-plans-after-flight.rst
