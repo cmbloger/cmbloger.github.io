@@ -1,4 +1,4 @@
-Planning my Biannual Trip Overseas
+Planning My Biannual Trip Overseas
 ==================================
 
 .. tags: planning, organization, travel
@@ -92,8 +92,10 @@ Day 2
 - [ ] Put my personal files on a USB drive that I need to access from my
   work-issued computer
 
-- [ ] Remove everything out of the cars
+- [X] Remove everything out of the cars
 - [ ] Water the plants
+- [ ] Charge and pack headphones
+- [ ] Add ear plugs to backpack
 
 - [ ] (There is still room to add to Sunday.)
 
