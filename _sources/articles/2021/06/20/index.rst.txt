@@ -4,4 +4,5 @@
 .. toctree::
     :maxdepth: 2
 
+    thinking-about-which-shoes-to-bring-on-a-trip.rst
     organizing-tasks-on-the-burner.rst

@@ -1,6 +1,46 @@
 Welcome to Fantastic Broccoli’s documentation!
 ##############################################
 
+`Thinking About Which Shoes to Bring on a Trip <2021/06/20/thinking-about-which-shoes-to-bring-on-a-trip/>`_
+============================================================================================================
+
+2021-06-20
+
+
+The last two times I went on this trip, these are the activities that I
+did and the type of shoes that were needed:
+
+--------                   ---------------
+Activity                   Instances
+--------                   ---------------
+Outdoor park               1
+Outdoor construction work  20+
+Exercising (running)       1
+Dinner at someone's home   1
+Casual dining              1
+Fine dining                0
+--------                   ---------------
+
+
+--------                   ---------------
+Activity                   Instances
+--------                   ---------------
+Outdoor park               2
+Outdoor construction work  0
+Exercising (running)       0
+Dinner at someone's home   1
+Casual dining              1
+Fine dining                0
+--------                   ---------------
+
+In summary, I don't think I have been on any events nicer than dinner at
+someone's house. And for that a pair of shoes that are clean is enough,
+however the construction that I usually have to do includes doing real
+damage to a pair of shoes.
+
+I'm going to gamble and only take a pair of clean tennis shoes.
+
+
 `Organizing Tasks on the Burner <2021/06/20/organizing-tasks-on-the-burner/>`_
 ==============================================================================
 
@@ -24,10 +64,10 @@ it's important to finish before the upcoming deadline. Actually, I'm not
 convinced about how to measure urgency or even if I understand the
 definition in light of this GTD technique.
 
-- (1) Mount the camera; take a picture of it; send it to family (3 hours).
-- (1) Get the OpenVPN back online and validate that it works (3 hours).
-- (1) List next tasks including for work.
-- (1) Download educational content for the flight.
+- [ ] (1) Mount the camera; take a picture of it; send it to family (3 hours).
+- [X] (1) Get the OpenVPN back online and validate that it works (3 hours).
+- [ ] (1) List next tasks including for work.
+- [X] (1) Download educational content for the flight.
 - (0) Write a reflection article (1 hour).
 - (0) Dust off back exterior stairs
 - (0) Dust behind sofa
